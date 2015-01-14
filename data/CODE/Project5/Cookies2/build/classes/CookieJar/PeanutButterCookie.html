@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>PeanutButterCookie.java</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+<!--
+body {color: #000000; background-color: #ffffff; font-family: Monospaced}
+pre {color: #000000; background-color: #ffffff; font-family: Monospaced}
+table {color: #000000; background-color: #e9e8e2; font-family: Monospaced}
+.ST0 {color: #969696; font-family: Monospaced; font-weight: bold}
+.comment {color: #969696}
+.ST1 {color: #ce7b00; font-family: Monospaced; font-weight: bold}
+.character {color: #ce7b00}
+.keyword-directive {color: #0000e6}
+-->
+</style>
+</head>
+<body>
+<table width="100%"><tr><td align="center">Z:\NCMC\225\code\Cookies2\src\CookieJar\PeanutButterCookie.java</td></tr></table>
+<pre>
+ 1 <span class="comment">/*</span>
+ 2 <span class="comment"> * To change this template, choose Tools | Templates</span>
+ 3 <span class="comment"> * and open the template in the editor.</span>
+ 4 <span class="comment"> */</span>
+ 5 <span class="keyword-directive">package</span> CookieJar;
+ 6 
+ 7 <span class="comment">/**</span>
+ 8 <span class="comment"> *</span>
+ 9 <span class="comment"> * </span><span class="ST0">@author</span> <span class="comment">ILUVATAR</span>
+10  <span class="comment">*/</span>
+11 <span class="keyword-directive">public</span> <span class="keyword-directive">class</span> PeanutButterCookie <span class="keyword-directive">extends</span> Cookie{
+12     <span class="keyword-directive">private</span> <span class="keyword-directive">static</span> <span class="keyword-directive">final</span> String COOKIETYPE = <span class="character">&quot;</span><span class="character">Peanut Butter</span><span class="character">&quot;</span>;
+13     <span class="keyword-directive">private</span> <span class="keyword-directive">int</span> peanutButterQty, nutsQty, milkQty;
+14     
+15     <span class="keyword-directive">public</span> PeanutButterCookie() {
+16         <span class="keyword-directive">super</span>();
+17         peanutButterQty = 0;
+18         nutsQty = 0;
+19         milkQty = 0;
+20     }
+21     
+22     <span class="keyword-directive">public</span> PeanutButterCookie(<span class="keyword-directive">int</span> flourQty, <span class="keyword-directive">int</span> sugarQty, <span class="keyword-directive">int</span> eggsQty, <span class="keyword-directive">int</span> saltQty, <span class="keyword-directive">int</span> fatQty, <span class="keyword-directive">int</span> bakingPowderQty, <span class="keyword-directive">int</span> waterQty, <span class="keyword-directive">int</span> peanutButterQty, <span class="keyword-directive">int</span> nutsQty, <span class="keyword-directive">int</span> milkQty) {
+23         <span class="keyword-directive">super</span>(flourQty, sugarQty, eggsQty, saltQty, fatQty, bakingPowderQty, waterQty);
+24         <span class="keyword-directive">this</span>.peanutButterQty = peanutButterQty;
+25         <span class="keyword-directive">this</span>.nutsQty = nutsQty;
+26         <span class="keyword-directive">this</span>.milkQty = milkQty;
+27     }
+28     
+29     @Override
+30     <span class="keyword-directive">public</span> String toString() {
+31         <span class="keyword-directive">return</span> <span class="character">&quot;</span><span class="character">Cookie type: </span><span class="character">&quot;</span> + COOKIETYPE + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+32                 <span class="character">&quot;</span><span class="character">Flour: </span><span class="character">&quot;</span> + getFlourQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+33                 <span class="character">&quot;</span><span class="character">Sugar: </span><span class="character">&quot;</span> + getSugarQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+34                 <span class="character">&quot;</span><span class="character">Eggs: </span><span class="character">&quot;</span> + getEggsQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+35                 <span class="character">&quot;</span><span class="character">Salt: </span><span class="character">&quot;</span> + getSaltQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+36                 <span class="character">&quot;</span><span class="character">Fat: </span><span class="character">&quot;</span> + getFatQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+37                 <span class="character">&quot;</span><span class="character">Baking Powder: </span><span class="character">&quot;</span> + getBakingPowderQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+38                 <span class="character">&quot;</span><span class="character">Peanut butter: </span><span class="character">&quot;</span> + getPeanutButterQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+39                 <span class="character">&quot;</span><span class="character">Nuts: </span><span class="character">&quot;</span> + getNutsQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+40                 <span class="character">&quot;</span><span class="character">Milk: </span><span class="character">&quot;</span> + getMilkQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span>;
+41     }
+42 
+43     <span class="comment">/**</span>
+44 <span class="comment">     * </span><span class="ST0">@return</span> <span class="comment">the</span> <span class="comment">peanutButterQty</span>
+45      <span class="comment">*/</span>
+46     <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> getPeanutButterQty() {
+47         <span class="keyword-directive">return</span> peanutButterQty;
+48     }
+49 
+50     <span class="comment">/**</span>
+51 <span class="comment">     * </span><span class="ST0">@param</span> <span class="comment">peanutButterQty</span> <span class="comment">the</span> <span class="comment">peanutButterQty</span> <span class="comment">to</span> <span class="comment">set</span>
+52      <span class="comment">*/</span>
+53     <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setPeanutButterQty(<span class="keyword-directive">int</span> peanutButterQty) {
+54         <span class="keyword-directive">this</span>.peanutButterQty = peanutButterQty;
+55     }
+56 
+57     <span class="comment">/**</span>
+58 <span class="comment">     * </span><span class="ST0">@return</span> <span class="comment">the</span> <span class="comment">nutsQty</span>
+59      <span class="comment">*/</span>
+60     <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> getNutsQty() {
+61         <span class="keyword-directive">return</span> nutsQty;
+62     }
+63 
+64     <span class="comment">/**</span>
+65 <span class="comment">     * </span><span class="ST0">@param</span> <span class="comment">nutsQty</span> <span class="comment">the</span> <span class="comment">nutsQty</span> <span class="comment">to</span> <span class="comment">set</span>
+66      <span class="comment">*/</span>
+67     <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setNutsQty(<span class="keyword-directive">int</span> nutsQty) {
+68         <span class="keyword-directive">this</span>.nutsQty = nutsQty;
+69     }
+70 
+71     <span class="comment">/**</span>
+72 <span class="comment">     * </span><span class="ST0">@return</span> <span class="comment">the</span> <span class="comment">milkQty</span>
+73      <span class="comment">*/</span>
+74     <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> getMilkQty() {
+75         <span class="keyword-directive">return</span> milkQty;
+76     }
+77 
+78     <span class="comment">/**</span>
+79 <span class="comment">     * </span><span class="ST0">@param</span> <span class="comment">milkQty</span> <span class="comment">the</span> <span class="comment">milkQty</span> <span class="comment">to</span> <span class="comment">set</span>
+80      <span class="comment">*/</span>
+81     <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setMilkQty(<span class="keyword-directive">int</span> milkQty) {
+82         <span class="keyword-directive">this</span>.milkQty = milkQty;
+83     }
+84 }
+85 
+</pre></body>
+</html>

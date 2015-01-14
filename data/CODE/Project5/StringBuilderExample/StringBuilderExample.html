@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>StringBuilderExample.java</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+<!--
+body {color: #000000; background-color: #ffffff; font-family: Monospaced}
+pre {color: #000000; background-color: #ffffff; font-family: Monospaced}
+table {color: #000000; background-color: #e9e8e2; font-family: Monospaced}
+.ST1 {font-family: Monospaced; font-weight: bold}
+.ST5 {font-family: Monospaced; font-weight: bold; font-style: italic}
+.comment {color: #969696}
+.ST0 {color: #969696; font-family: Monospaced; font-weight: bold}
+.ST4 {color: #009900; font-family: Monospaced; font-style: italic}
+.keyword-directive {color: #0000e6}
+.character {color: #ce7b00}
+.ST3 {color: #ce7b00; font-family: Monospaced; font-weight: bold}
+.ST2 {color: #009900}
+-->
+</style>
+</head>
+<body>
+<table width="100%"><tr><td align="center">Z:\NCMC\225\code\StringBuilderExample\StringBuilderExample\src\StringBuilderExample\StringBuilderExample.java</td></tr></table>
+<pre>
+ 1 <span class="keyword-directive">package</span> StringBuilderExample;
+ 2 
+ 3 <span class="comment">/**</span>
+ 4 <span class="comment"> * </span><span class="ST0">@author</span> <span class="comment">bates</span><span class="comment">.</span><span class="comment">he</span><span class="comment">.</span><span class="comment">z</span>
+ 5 <span class="comment"> * </span><span class="comment">See</span> <span class="comment">description</span> <span class="comment">at</span> <span class="comment">bottom</span> <span class="comment">of</span> <span class="comment">code</span><span class="comment">.</span>
+ 6  <span class="comment">*/</span>
+ 7 <span class="keyword-directive">public</span> <span class="keyword-directive">class</span> <span class="ST1">StringBuilderExample</span> {
+ 8     <span class="keyword-directive">private</span> StringBuilder <span class="ST2">builder</span>;
+ 9 
+10     <span class="keyword-directive">public</span> <span class="ST1">StringBuilderExample</span>() {
+11         <span class="ST2">builder</span> = <span class="keyword-directive">new</span> StringBuilder();
+12         runExampleOne();
+13         runExampleTwo(<span class="character">&quot;</span><span class="character">Mr.</span><span class="character">&quot;</span>);
+14         runExampleThree(<span class="character">&quot;</span><span class="character">Mr.</span><span class="character">&quot;</span>);
+15     }
+16 
+17     <span class="keyword-directive">private</span> <span class="keyword-directive">void</span> <span class="ST1">runExampleOne</span>() {
+18         <span class="ST2">builder</span>.append(<span class="character">&quot;</span><span class="character">Hello </span><span class="character">&quot;</span>);
+19         <span class="ST2">builder</span>.append(<span class="character">&quot;</span><span class="character">Howard!</span><span class="ST3">\n</span><span class="ST3">\n</span><span class="character">&quot;</span>);
+20         printBuilder();
+21     }
+22 
+23     <span class="keyword-directive">private</span> <span class="keyword-directive">void</span> <span class="ST1">runExampleTwo</span>(String insertLine){
+24         <span class="ST2">builder</span>.append(<span class="character">&quot;</span><span class="character">How are you today?</span><span class="character">&quot;</span>);
+25         <span class="keyword-directive">int</span> index = <span class="ST2">builder</span>.indexOf(<span class="character">&quot;</span><span class="character">Howard</span><span class="character">&quot;</span>);
+26         <span class="ST2">builder</span>.insert(index, insertLine);
+27         printBuilder();
+28     }
+29 
+30     <span class="keyword-directive">private</span> <span class="keyword-directive">void</span> <span class="ST1">runExampleThree</span>(String deleteLine) {
+31         <span class="keyword-directive">int</span> index = <span class="ST2">builder</span>.indexOf(deleteLine);
+32         <span class="ST2">builder</span>.delete(index, index + deleteLine.length());
+33         printBuilder();
+34     }
+35     <span class="keyword-directive">private</span> <span class="keyword-directive">void</span> <span class="ST1">printBuilder</span>() {
+36         System.<span class="ST4">out</span>.println(<span class="ST2">builder</span>.toString() + <span class="character">&quot;</span><span class="ST3">\n</span><span class="character">&quot;</span>);
+37     }
+38 
+39     <span class="keyword-directive">public</span> <span class="keyword-directive">static</span> <span class="keyword-directive">void</span> <span class="ST5">main</span>(String[] args) {
+40         StringBuilderExample example = <span class="keyword-directive">new</span> StringBuilderExample();
+41     }
+42 
+43     <span class="comment">/**</span>
+44 <span class="comment">     * </span><span class="ST0">Since</span> <span class="ST0">String</span> <span class="ST0">are</span> <span class="ST0">immutable</span> <span class="ST0">in</span> <span class="ST0">Java</span><span class="ST0">, </span><span class="ST0">StringBuilder</span> <span class="ST0">was</span> <span class="ST0">created</span> <span class="ST0">to</span> <span class="ST0">give</span> <span class="ST0">you</span>
+45 <span class="comment">     * </span><span class="ST0">a</span> <span class="ST0">mutable</span> <span class="ST0">String</span> <span class="ST0">mechanism</span><span class="ST0">.</span> <span class="comment">The</span> <span class="comment">primary</span> <span class="comment">methods</span> <span class="comment">are</span><span class="comment">: </span><span class="comment">append</span><span class="comment">, </span><span class="comment">insert</span><span class="comment">, &amp;</span>
+46 <span class="comment">     * </span><span class="comment">delete</span><span class="comment">.</span>
+47      <span class="comment">*/</span>
+48 }
+</pre></body>
+</html>

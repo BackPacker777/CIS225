@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HelloKitty()
+comment1.params=
+comment1.target=void\ makeChair()
+comment2.params=color\ numWheels
+comment2.target=void\ makeChair(java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ getNumWheels()
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+numComments=5

@@ -1,0 +1,118 @@
+/**
+ * @author Michael Kölling and David J. Barnes
+ * @version 2011.07.31
+ */
+public class ClockDisplay {
+    private NumberDisplay hours;
+    private NumberDisplay minutes;
+    private String displayString;    // simulates the actual display
+    private final int HOURS = 24;
+    private final int MINUTES = 60;
+    
+    public ClockDisplay() {
+        hours = new NumberDisplay(HOURS);
+        minutes = new NumberDisplay(MINUTES);
+        updateDisplay();
+    }
+
+    public ClockDisplay(int hour, int minute) {
+        hours = new NumberDisplay(HOURS);
+        minutes = new NumberDisplay(MINUTES);
+        setTime(hour, minute);
+    }
+
+    public void timeTick() {
+        minutes.increment();
+        if(minutes.getValue() == 0) {  // it just rolled over!
+            hours.increment();
+        }
+        updateDisplay();
+    }
+
+    public void setTime(int hour, int minute) {
+        hours.setValue(hour);
+        minutes.setValue(minute);
+        updateDisplay();
+    }
+
+    public String getTime() {
+        return displayString;
+    }
+    
+    private void updateDisplay() {
+        displayString = hours.getDisplayValue() + ":" + minutes.getDisplayValue();
+    }
+}
+
+
+=========================================================================================
+PART 2
+=========================================================================================
+/**
+ * @author Michael Kölling and David J. Barnes
+ * @version 2011.07.31
+ */
+public class NumberDisplay {
+    private int limit;
+    private int value;
+
+    public NumberDisplay(int rollOverLimit) {
+        limit = rollOverLimit;
+        value = 0;
+    }
+
+    public void setLimit(int limitx) {
+        limit = limitx;
+    }
+    
+    public int getLimit() {
+        return limit;
+    }
+    
+    public void setValue(int replacementValue) {
+        if((replacementValue >= 0) && (replacementValue < limit)) {
+            value = replacementValue;
+        }
+    }
+    
+    public int getValue() {
+        return value;
+    }
+
+    public String getDisplayValue() {
+        if (value < 10) {
+            return "0" + value;
+        } else {
+            return "" + value;
+        }
+    }
+
+    public void increment() {
+        value = (value + 1) % limit;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

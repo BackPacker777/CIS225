@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>CookieEater.java</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+<!--
+body {color: #000000; background-color: #ffffff; font-family: Monospaced}
+pre {color: #000000; background-color: #ffffff; font-family: Monospaced}
+table {color: #000000; background-color: #e9e8e2; font-family: Monospaced}
+.ST0 {color: #969696; font-family: Monospaced; font-weight: bold}
+.comment {color: #969696}
+.ST1 {color: #ce7b00; font-family: Monospaced; font-weight: bold}
+.character {color: #ce7b00}
+.keyword-directive {color: #0000e6}
+-->
+</style>
+</head>
+<body>
+<table width="100%"><tr><td align="center">Z:\NCMC\225\code\Cookies2\src\Eater\CookieEater.java</td></tr></table>
+<pre>
+ 1 <span class="keyword-directive">package</span> Eater;
+ 2 
+ 3 <span class="keyword-directive">import</span> CookieJar.*;
+ 4 <span class="keyword-directive">import</span> java.io.File;
+ 5 <span class="keyword-directive">import</span> java.io.FileNotFoundException;
+ 6 <span class="keyword-directive">import</span> java.util.ArrayList;
+ 7 <span class="keyword-directive">import</span> java.util.Scanner;
+ 8 
+ 9 <span class="comment">/**</span>
+10 <span class="comment"> *</span>
+11 <span class="comment"> * </span><span class="ST0">@author</span> <span class="comment">ILUVATAR</span>
+12  <span class="comment">*/</span>
+13 <span class="keyword-directive">public</span> <span class="keyword-directive">class</span> CookieEater {
+14     <span class="keyword-directive">private</span> ArrayList&lt;Cookie&gt; plate;
+15     <span class="keyword-directive">private</span> Cookie cookie;
+16     <span class="keyword-directive">private</span> File fileReader;
+17     <span class="keyword-directive">private</span> Scanner streamReader;
+18     
+19     <span class="keyword-directive">public</span> CookieEater(String fileName) <span class="keyword-directive">throws</span> FileNotFoundException {
+20         plate = <span class="keyword-directive">new</span> ArrayList&lt;&gt;();
+21         fileReader = <span class="keyword-directive">new</span> File(fileName);
+22         streamReader = <span class="keyword-directive">new</span> Scanner(fileReader);
+23         readData();
+24         streamReader.close();
+25         printCookies();
+26     }
+27     
+28     <span class="keyword-directive">private</span> <span class="keyword-directive">void</span> readData() {
+29         String[] data;
+30         <span class="keyword-directive">while</span> (streamReader.hasNextLine()) {
+31             String line = streamReader.nextLine();
+32             data = line.trim().split(<span class="character">&quot;</span><span class="character">,</span><span class="character">&quot;</span>);
+33             populatePlate(data);
+34         }
+35     }
+36     
+37     <span class="keyword-directive">private</span> <span class="keyword-directive">void</span> populatePlate(String[] data) {
+38         <span class="keyword-directive">final</span> <span class="keyword-directive">int</span> PEANUTBUTTER = 0;
+39         <span class="keyword-directive">final</span> <span class="keyword-directive">int</span> OATMEALRAISIN = 1;
+40         <span class="keyword-directive">final</span> <span class="keyword-directive">int</span> CHOCOLATECHIP = 2;
+41         <span class="keyword-directive">int</span> cookieType = Integer.parseInt(data[0]);
+42         <span class="keyword-directive">int</span> cookieQty = Integer.parseInt(data[1]);
+43         <span class="keyword-directive">for</span> (<span class="keyword-directive">int</span> i = 0; i &lt; cookieQty; i++) {
+44             <span class="keyword-directive">switch</span> (cookieType) {
+45                 <span class="keyword-directive">case</span> PEANUTBUTTER:
+46                     plate.add(cookie = <span class="keyword-directive">new</span> PeanutButterCookie());
+47                     <span class="keyword-directive">break</span>;
+48                 <span class="keyword-directive">case</span> OATMEALRAISIN:
+49                     plate.add(cookie = <span class="keyword-directive">new</span> OatmealRaisinCookie());
+50                     <span class="keyword-directive">break</span>;
+51                 <span class="keyword-directive">case</span> CHOCOLATECHIP:
+52                     plate.add(cookie = <span class="keyword-directive">new</span> ChocolateChipCookie());
+53                     <span class="keyword-directive">break</span>;
+54                 <span class="keyword-directive">default</span>:
+55                     System.out.println(<span class="character">&quot;</span><span class="character">INVALID COOKIE!</span><span class="character">&quot;</span>);
+56                     System.exit(1);
+57             }
+58         }
+59     }
+60     
+61     <span class="keyword-directive">private</span> <span class="keyword-directive">void</span> printCookies() {
+62         <span class="keyword-directive">for</span> (<span class="keyword-directive">int</span> i = 0; i &lt; plate.size(); i++) {
+63             System.out.println(plate.get(i));
+64         }
+65     }
+66     
+67     <span class="keyword-directive">public</span> <span class="keyword-directive">static</span> <span class="keyword-directive">void</span> main(String[] args)  <span class="keyword-directive">throws</span> FileNotFoundException {
+68         <span class="keyword-directive">final</span> String FILENAME = <span class="character">&quot;</span><span class="character">Z:</span><span class="ST1">\\</span><span class="character">NCMC</span><span class="ST1">\\</span><span class="character">225</span><span class="ST1">\\</span><span class="character">code</span><span class="ST1">\\</span><span class="character">Cookies2</span><span class="ST1">\\</span><span class="character">src</span><span class="ST1">\\</span><span class="character">Eater</span><span class="ST1">\\</span><span class="character">CookieData.csv</span><span class="character">&quot;</span>;
+69         CookieEater person = <span class="keyword-directive">new</span> CookieEater(FILENAME);
+70     }
+71 }
+72 
+</pre></body>
+</html>

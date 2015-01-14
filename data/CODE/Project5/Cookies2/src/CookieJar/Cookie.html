@@ -1,0 +1,156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Cookie.java</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+<!--
+body {color: #000000; background-color: #ffffff; font-family: Monospaced}
+pre {color: #000000; background-color: #ffffff; font-family: Monospaced}
+table {color: #000000; background-color: #e9e8e2; font-family: Monospaced}
+.ST1 {font-family: Monospaced; font-weight: bold}
+.ST0 {color: #969696; font-family: Monospaced; font-weight: bold}
+.comment {color: #969696}
+.ST2 {color: #009900}
+.keyword-directive {color: #0000e6}
+-->
+</style>
+</head>
+<body>
+<table width="100%"><tr><td align="center">Z:\NCMC\225\code\Cookies2\src\CookieJar\Cookie.java</td></tr></table>
+<pre>
+  1 <span class="comment">/*</span>
+  2 <span class="comment"> * To change this template, choose Tools | Templates</span>
+  3 <span class="comment"> * and open the template in the editor.</span>
+  4 <span class="comment"> */</span>
+  5 <span class="keyword-directive">package</span> CookieJar;
+  6 
+  7 <span class="comment">/**</span>
+  8 <span class="comment"> *</span>
+  9 <span class="comment"> * </span><span class="ST0">@author</span> <span class="comment">ILUVATAR</span>
+ 10  <span class="comment">*/</span>
+ 11 <span class="keyword-directive">public</span> <span class="keyword-directive">class</span> <span class="ST1">Cookie</span> {
+ 12     <span class="keyword-directive">private</span> <span class="keyword-directive">int</span> <span class="ST2">flourQty</span>, <span class="ST2">sugarQty</span>, <span class="ST2">eggsQty</span>, <span class="ST2">saltQty</span>, <span class="ST2">fatQty</span>, <span class="ST2">bakingPowderQty</span>, <span class="ST2">waterQty</span>;
+ 13 
+ 14     <span class="keyword-directive">public</span> <span class="ST1">Cookie</span>() {
+ 15         <span class="ST2">flourQty</span> = 0;
+ 16         <span class="ST2">sugarQty</span> = 0;
+ 17         <span class="ST2">eggsQty</span> = 0;
+ 18         <span class="ST2">saltQty</span> = 0;
+ 19         <span class="ST2">fatQty</span> = 0;
+ 20         <span class="ST2">bakingPowderQty</span> = 0;
+ 21         <span class="ST2">waterQty</span> = 0;
+ 22     }
+ 23 
+ 24     <span class="keyword-directive">public</span> <span class="ST1">Cookie</span>(<span class="keyword-directive">int</span> flourQty, <span class="keyword-directive">int</span> sugarQty, <span class="keyword-directive">int</span> eggsQty, <span class="keyword-directive">int</span> saltQty, <span class="keyword-directive">int</span> fatQty, <span class="keyword-directive">int</span> bakingPowderQty, <span class="keyword-directive">int</span> waterQty) {
+ 25         <span class="keyword-directive">this</span>.<span class="ST2">flourQty</span> = flourQty;
+ 26         <span class="keyword-directive">this</span>.<span class="ST2">flourQty</span> = flourQty;
+ 27         <span class="keyword-directive">this</span>.<span class="ST2">sugarQty</span> = sugarQty;
+ 28         <span class="keyword-directive">this</span>.<span class="ST2">eggsQty</span> = eggsQty;
+ 29         <span class="keyword-directive">this</span>.<span class="ST2">saltQty</span> = saltQty;
+ 30         <span class="keyword-directive">this</span>.<span class="ST2">fatQty</span> = fatQty;
+ 31         <span class="keyword-directive">this</span>.<span class="ST2">bakingPowderQty</span> = bakingPowderQty;
+ 32         <span class="keyword-directive">this</span>.<span class="ST2">waterQty</span> = waterQty;
+ 33     }
+ 34 
+ 35     <span class="comment">/**</span>
+ 36 <span class="comment">     * </span><span class="ST0">@return</span> <span class="comment">the</span> <span class="comment">flourQty</span>
+ 37      <span class="comment">*/</span>
+ 38     <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> <span class="ST1">getFlourQty</span>() {
+ 39         <span class="keyword-directive">return</span> <span class="ST2">flourQty</span>;
+ 40     }
+ 41 
+ 42     <span class="comment">/**</span>
+ 43 <span class="comment">     * </span><span class="ST0">@param</span> flourQty <span class="comment">the</span> <span class="comment">flourQty</span> <span class="comment">to</span> <span class="comment">set</span>
+ 44      <span class="comment">*/</span>
+ 45     <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> <span class="ST1">setFlourQty</span>(<span class="keyword-directive">int</span> flourQty) {
+ 46         <span class="keyword-directive">this</span>.<span class="ST2">flourQty</span> = flourQty;
+ 47     }
+ 48 
+ 49     <span class="comment">/**</span>
+ 50 <span class="comment">     * </span><span class="ST0">@return</span> <span class="comment">the</span> <span class="comment">sugarQty</span>
+ 51      <span class="comment">*/</span>
+ 52     <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> <span class="ST1">getSugarQty</span>() {
+ 53         <span class="keyword-directive">return</span> <span class="ST2">sugarQty</span>;
+ 54     }
+ 55 
+ 56     <span class="comment">/**</span>
+ 57 <span class="comment">     * </span><span class="ST0">@param</span> sugarQty <span class="comment">the</span> <span class="comment">sugarQty</span> <span class="comment">to</span> <span class="comment">set</span>
+ 58      <span class="comment">*/</span>
+ 59     <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> <span class="ST1">setSugarQty</span>(<span class="keyword-directive">int</span> sugarQty) {
+ 60         <span class="keyword-directive">this</span>.<span class="ST2">sugarQty</span> = sugarQty;
+ 61     }
+ 62 
+ 63     <span class="comment">/**</span>
+ 64 <span class="comment">     * </span><span class="ST0">@return</span> <span class="comment">the</span> <span class="comment">eggsQty</span>
+ 65      <span class="comment">*/</span>
+ 66     <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> <span class="ST1">getEggsQty</span>() {
+ 67         <span class="keyword-directive">return</span> <span class="ST2">eggsQty</span>;
+ 68     }
+ 69 
+ 70     <span class="comment">/**</span>
+ 71 <span class="comment">     * </span><span class="ST0">@param</span> eggsQty <span class="comment">the</span> <span class="comment">eggsQty</span> <span class="comment">to</span> <span class="comment">set</span>
+ 72      <span class="comment">*/</span>
+ 73     <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> <span class="ST1">setEggsQty</span>(<span class="keyword-directive">int</span> eggsQty) {
+ 74         <span class="keyword-directive">this</span>.<span class="ST2">eggsQty</span> = eggsQty;
+ 75     }
+ 76 
+ 77     <span class="comment">/**</span>
+ 78 <span class="comment">     * </span><span class="ST0">@return</span> <span class="comment">the</span> <span class="comment">saltQty</span>
+ 79      <span class="comment">*/</span>
+ 80     <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> <span class="ST1">getSaltQty</span>() {
+ 81         <span class="keyword-directive">return</span> <span class="ST2">saltQty</span>;
+ 82     }
+ 83 
+ 84     <span class="comment">/**</span>
+ 85 <span class="comment">     * </span><span class="ST0">@param</span> saltQty <span class="comment">the</span> <span class="comment">saltQty</span> <span class="comment">to</span> <span class="comment">set</span>
+ 86      <span class="comment">*/</span>
+ 87     <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> <span class="ST1">setSaltQty</span>(<span class="keyword-directive">int</span> saltQty) {
+ 88         <span class="keyword-directive">this</span>.<span class="ST2">saltQty</span> = saltQty;
+ 89     }
+ 90 
+ 91     <span class="comment">/**</span>
+ 92 <span class="comment">     * </span><span class="ST0">@return</span> <span class="comment">the</span> <span class="comment">fatQty</span>
+ 93      <span class="comment">*/</span>
+ 94     <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> <span class="ST1">getFatQty</span>() {
+ 95         <span class="keyword-directive">return</span> <span class="ST2">fatQty</span>;
+ 96     }
+ 97 
+ 98     <span class="comment">/**</span>
+ 99 <span class="comment">     * </span><span class="ST0">@param</span> fatQty <span class="comment">the</span> <span class="comment">fatQty</span> <span class="comment">to</span> <span class="comment">set</span>
+100      <span class="comment">*/</span>
+101     <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> <span class="ST1">setFatQty</span>(<span class="keyword-directive">int</span> fatQty) {
+102         <span class="keyword-directive">this</span>.<span class="ST2">fatQty</span> = fatQty;
+103     }
+104 
+105     <span class="comment">/**</span>
+106 <span class="comment">     * </span><span class="ST0">@return</span> <span class="comment">the</span> <span class="comment">bakingPowderQty</span>
+107      <span class="comment">*/</span>
+108     <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> <span class="ST1">getBakingPowderQty</span>() {
+109         <span class="keyword-directive">return</span> <span class="ST2">bakingPowderQty</span>;
+110     }
+111 
+112     <span class="comment">/**</span>
+113 <span class="comment">     * </span><span class="ST0">@param</span> bakingPowderQty <span class="comment">the</span> <span class="comment">bakingPowderQty</span> <span class="comment">to</span> <span class="comment">set</span>
+114      <span class="comment">*/</span>
+115     <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> <span class="ST1">setBakingPowderQty</span>(<span class="keyword-directive">int</span> bakingPowderQty) {
+116         <span class="keyword-directive">this</span>.<span class="ST2">bakingPowderQty</span> = bakingPowderQty;
+117     }
+118 
+119     <span class="comment">/**</span>
+120 <span class="comment">     * </span><span class="ST0">@return</span> <span class="comment">the</span> <span class="comment">waterQty</span>
+121      <span class="comment">*/</span>
+122     <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> <span class="ST1">getWaterQty</span>() {
+123         <span class="keyword-directive">return</span> <span class="ST2">waterQty</span>;
+124     }
+125 
+126     <span class="comment">/**</span>
+127 <span class="comment">     * </span><span class="ST0">@param</span> waterQty <span class="comment">the</span> <span class="comment">waterQty</span> <span class="comment">to</span> <span class="comment">set</span>
+128      <span class="comment">*/</span>
+129     <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> <span class="ST1">setWaterQty</span>(<span class="keyword-directive">int</span> waterQty) {
+130         <span class="keyword-directive">this</span>.<span class="ST2">waterQty</span> = waterQty;
+131     }
+132 }
+133 
+</pre></body>
+</html>

@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>OatmealRaisinCookie.java</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+<!--
+body {color: #000000; background-color: #ffffff; font-family: Monospaced}
+pre {color: #000000; background-color: #ffffff; font-family: Monospaced}
+table {color: #000000; background-color: #e9e8e2; font-family: Monospaced}
+.ST0 {color: #969696; font-family: Monospaced; font-weight: bold}
+.comment {color: #969696}
+.ST1 {color: #ce7b00; font-family: Monospaced; font-weight: bold}
+.character {color: #ce7b00}
+.keyword-directive {color: #0000e6}
+-->
+</style>
+</head>
+<body>
+<table width="100%"><tr><td align="center">Z:\NCMC\225\code\Cookies2\src\CookieJar\OatmealRaisinCookie.java</td></tr></table>
+<pre>
+ 1 <span class="keyword-directive">package</span> CookieJar;
+ 2 
+ 3 <span class="comment">/**</span>
+ 4 <span class="comment"> *</span>
+ 5 <span class="comment"> * </span><span class="ST0">@author</span> <span class="comment">ILUVATAR</span>
+ 6  <span class="comment">*/</span>
+ 7 <span class="keyword-directive">public</span> <span class="keyword-directive">class</span> OatmealRaisinCookie <span class="keyword-directive">extends</span> Cookie{
+ 8     <span class="keyword-directive">private</span> <span class="keyword-directive">static</span> <span class="keyword-directive">final</span> String COOKIETYPE = <span class="character">&quot;</span><span class="character">Oatmeal Raisin</span><span class="character">&quot;</span>;
+ 9     <span class="keyword-directive">private</span> <span class="keyword-directive">int</span> oatmealQty, raisinQty;
+10     
+11     <span class="keyword-directive">public</span> OatmealRaisinCookie() {
+12         <span class="keyword-directive">super</span>();
+13         oatmealQty = 0;
+14         raisinQty = 0;
+15     }
+16     
+17     <span class="keyword-directive">public</span> OatmealRaisinCookie(<span class="keyword-directive">int</span> flourQty, <span class="keyword-directive">int</span> sugarQty, <span class="keyword-directive">int</span> eggsQty, <span class="keyword-directive">int</span> saltQty, <span class="keyword-directive">int</span> fatQty, <span class="keyword-directive">int</span> bakingPowderQty, <span class="keyword-directive">int</span> waterQty, <span class="keyword-directive">int</span> oatmealQty, <span class="keyword-directive">int</span> raisinQty) {
+18         <span class="keyword-directive">super</span>(flourQty, sugarQty, eggsQty, saltQty, fatQty, bakingPowderQty, waterQty);
+19         <span class="keyword-directive">this</span>.oatmealQty = oatmealQty;
+20         <span class="keyword-directive">this</span>.raisinQty = raisinQty;
+21     }
+22     
+23     @Override
+24     <span class="keyword-directive">public</span> String toString() {
+25         <span class="keyword-directive">return</span> <span class="character">&quot;</span><span class="character">Cookie type: </span><span class="character">&quot;</span> + COOKIETYPE + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+26                 <span class="character">&quot;</span><span class="character">Flour: </span><span class="character">&quot;</span> + getFlourQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+27                 <span class="character">&quot;</span><span class="character">Sugar: </span><span class="character">&quot;</span> + getSugarQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+28                 <span class="character">&quot;</span><span class="character">Eggs: </span><span class="character">&quot;</span> + getEggsQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+29                 <span class="character">&quot;</span><span class="character">Salt: </span><span class="character">&quot;</span> + getSaltQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+30                 <span class="character">&quot;</span><span class="character">Fat: </span><span class="character">&quot;</span> + getFatQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+31                 <span class="character">&quot;</span><span class="character">Baking Powder: </span><span class="character">&quot;</span> + getBakingPowderQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+32                 <span class="character">&quot;</span><span class="character">Oatmeal: </span><span class="character">&quot;</span> + getOatmealQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span> +
+33                 <span class="character">&quot;</span><span class="character">Raisins: </span><span class="character">&quot;</span> + getRaisinQty() + <span class="character">&quot;</span><span class="ST1">\n</span><span class="character">&quot;</span>;
+34     }
+35 
+36     <span class="comment">/**</span>
+37 <span class="comment">     * </span><span class="ST0">@return</span> <span class="comment">the</span> <span class="comment">oatmealQty</span>
+38      <span class="comment">*/</span>
+39     <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> getOatmealQty() {
+40         <span class="keyword-directive">return</span> oatmealQty;
+41     }
+42 
+43     <span class="comment">/**</span>
+44 <span class="comment">     * </span><span class="ST0">@param</span> <span class="comment">oatmealQty</span> <span class="comment">the</span> <span class="comment">oatmealQty</span> <span class="comment">to</span> <span class="comment">set</span>
+45      <span class="comment">*/</span>
+46     <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setOatmealQty(<span class="keyword-directive">int</span> oatmealQty) {
+47         <span class="keyword-directive">this</span>.oatmealQty = oatmealQty;
+48     }
+49 
+50     <span class="comment">/**</span>
+51 <span class="comment">     * </span><span class="ST0">@return</span> <span class="comment">the</span> <span class="comment">raisinQty</span>
+52      <span class="comment">*/</span>
+53     <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> getRaisinQty() {
+54         <span class="keyword-directive">return</span> raisinQty;
+55     }
+56 
+57     <span class="comment">/**</span>
+58 <span class="comment">     * </span><span class="ST0">@param</span> <span class="comment">raisinQty</span> <span class="comment">the</span> <span class="comment">raisinQty</span> <span class="comment">to</span> <span class="comment">set</span>
+59      <span class="comment">*/</span>
+60     <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setRaisinQty(<span class="keyword-directive">int</span> raisinQty) {
+61         <span class="keyword-directive">this</span>.raisinQty = raisinQty;
+62     }
+63 }
+</pre></body>
+</html>

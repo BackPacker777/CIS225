@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=UseDaysWeek()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ UseDaysWeek\r\n
+comment1.params=currentDay
+comment1.target=void\ setCurrentDay(java.lang.String)
+comment2.params=
+comment2.target=void\ printDay()
+numComments=3
