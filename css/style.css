@@ -85,8 +85,8 @@ td {
 #mastHead {
 	background-color: #ec9707;
 	top: 100px;
-     height: 30px;
-     width: 1008px;
+	height: 30px;
+	width: 1008px;
 	color: white;
 	line-height: 30px;
 }
@@ -94,8 +94,8 @@ td {
 #titleBox {
 	background-color: #0592c2;
 	top: 100px;
-     height: 100px;
-     width: 1008px;
+	height: 100px;
+	width: 1008px;
 	color: white;
 	line-height: 30px;
 	z-index: 999;
@@ -161,9 +161,8 @@ td {
 #mainContent {
 	position: relative;
 	width: 1000px;
-     margin-left: 5px;
+	margin-left: 5px;
 	height: 160px;
-	/*opacity: 0.3;*/
 	font-size: 18px;
 	text-align: justify;
 	z-index: 500;
