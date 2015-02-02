@@ -1,0 +1,1745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65eaa5f6-17d2-44fa-9f97-0bcfd97e9d1b" name="Default" comment="A bunch of minor changes">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/build/classes/.netbeans_automatic_build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/build/classes/.netbeans_automatic_build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/build/classes/.netbeans_update_resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/build/classes/.netbeans_update_resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Actor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Animal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/AtBat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/AtmDemo/AtmInterface.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/auction/Auction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/AtmDemo/BankAccount.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/auction/Bid.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v1/audio/BigBillBroonzy-BabyPleaseDontGo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v2/audio/BigBillBroonzy-BabyPleaseDontGo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v3/audio/BigBillBroonzy-BabyPleaseDontGo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v4/audio/BigBillBroonzy-BabyPleaseDontGo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v5/audio/BigBillBroonzy-BabyPleaseDontGo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/audio/BigBillBroonzy-BabyPleaseDontGo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v1/audio/BlindBlake-EarlyMorningBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v2/audio/BlindBlake-EarlyMorningBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v3/audio/BlindBlake-EarlyMorningBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v4/audio/BlindBlake-EarlyMorningBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v5/audio/BlindBlake-EarlyMorningBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/audio/BlindBlake-EarlyMorningBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v1/audio/BlindLemonJefferson-OneDimeBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v2/audio/BlindLemonJefferson-OneDimeBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v3/audio/BlindLemonJefferson-OneDimeBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v4/audio/BlindLemonJefferson-OneDimeBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v5/audio/BlindLemonJefferson-OneDimeBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/audio/BlindLemonJefferson-OneDimeBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v1/audio/BlindLemonJefferson-matchBoxBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v2/audio/BlindLemonJefferson-matchBoxBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v3/audio/BlindLemonJefferson-matchBoxBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v4/audio/BlindLemonJefferson-matchBoxBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v5/audio/BlindLemonJefferson-matchBoxBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/audio/BlindLemonJefferson-matchBoxBlues.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Canvas$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Canvas$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Canvas$CanvasPane.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Canvas$CanvasPane.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Canvas$ShapeDescription.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Canvas$ShapeDescription.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Canvas.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Canvas.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding/Chair.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Circle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Circle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/City.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/CityGUI$CityView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/CityGUI.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding/Classroom.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/Clock$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/Clock$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/Clock$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/Clock$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/Clock$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/Clock$TimerThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/Clock.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display/ClockDisplay.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/ClockDisplay.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/Command.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/CommandWord.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/CommandWords.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Counter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/AtmDemo/CustomerData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/build/classes/Denizens/Denizen.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/DrawableItem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Field.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/FieldStats.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Fox.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/Game$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/Game.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/build/classes/Denizens/Ghoul.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding/Human.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/InputReader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/IntelliJ-Git.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/IntelliJ-Git.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Item.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/Labs/Lab3.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/lab-classes/LabClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Location.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Location.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/build/classes/Structure/Location.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/LogAnalyzer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/LogEntry.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/LogfileCreator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/LogfileReader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/LoglineTokenizer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/auction/Lot.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/mail-system/MailClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/mail-system/MailItem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/mail-system/MailServer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter09/network-v3/MessagePost.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/MissingPassengerException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v1/MusicOrganizer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/NcmcWhiteLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter09/network-v3/NewsFeed.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display/NumberDisplay.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/NumberDisplay.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/dist/OFwJChap8Proj.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/dist/OFwJChap9Proj.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/build/classes/Denizens/Orc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/Parser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Passenger.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/PassengerSource.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Perl5Badge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/auction/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter09/network-v3/PhotoPost.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Picture.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter09/network-v3/Post.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ProgrammingRubric2015.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ProgrammingRubric2015.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Rabbit.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Randomizer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project7/FileIODemo/FileIODemo/ReaderWriter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/Responder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/Room.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Shuttle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Simulation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Simulator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/SimulatorView$FieldView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/SimulatorView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Square.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Square.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/build/classes/Dispatch/Start.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/build/classes/Dispatch/Start.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/lab-classes/Student.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/SupportSystem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Taxi.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/TaxiCompany.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/TheDicer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter02/better-ticket-machine/TicketMachine.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter02/naive-ticket-machine/TicketMachine.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Triangle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Triangle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/UML.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Vehicle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/mail-system/__SHELL7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/resources/background.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/resources/background.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-io/blah.adr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/images/bluej-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/images/bus+persons.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/images/bus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/images/chicago.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/css3Badge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/images/david.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/images/dover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/images/gothic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/html5Badge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/src/main/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/src/main/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/src/main/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/src/main/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jQueryBadge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v1/+libs/jl1.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v2/+libs/jl1.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v3/+libs/jl1.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v4/+libs/jl1.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v5/+libs/jl1.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/+libs/jl1.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jsLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/src/main/res/drawable-xxhdpi/karate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/ty/njj.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/images/person.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/images/persons.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/settings.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/images/stamp.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/resources/tab.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/resources/tab.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/images/taxi+person.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/images/taxi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/title.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/resources/titlebar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/resources/titlebar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/resources/titlebar_end.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/resources/titlebar_end.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/images/whitstable.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/School/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Actor.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/Actor.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Actor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/Actor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-assert/AddressBook.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-io/AddressBook.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-junit/AddressBook.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1g/AddressBook.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1t/AddressBook.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2g/AddressBook.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2t/AddressBook.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/AddressBook.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-assert/AddressBook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-io/AddressBook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-junit/AddressBook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1g/AddressBook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1t/AddressBook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2g/AddressBook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2t/AddressBook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/AddressBook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-assert/AddressBookDemo.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-io/AddressBookDemo.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1g/AddressBookDemo.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1t/AddressBookDemo.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2g/AddressBookDemo.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2t/AddressBookDemo.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/AddressBookDemo.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-assert/AddressBookDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-io/AddressBookDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1g/AddressBookDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1t/AddressBookDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2g/AddressBookDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2t/AddressBookDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/AddressBookDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-io/AddressBookFileHandler.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-io/AddressBookFileHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1g/AddressBookGUI.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2g/AddressBookGUI.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1g/AddressBookGUI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2g/AddressBookGUI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-junit/AddressBookTest.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-junit/AddressBookTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1t/AddressBookTextInterface.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2t/AddressBookTextInterface.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/AddressBookTextInterface.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1t/AddressBookTextInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2t/AddressBookTextInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/AddressBookTextInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Animal.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Animal.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Animal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Animal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/.idea/AtmDemo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/AtmDemo/AtmInterface.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/AtmDemo/AtmInterface.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/AtmDemo/AtmInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/auction/Auction.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/auction/Auction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/bouncing-balls/BallDemo.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/bouncing-balls/BallDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/AtmDemo/BankAccount.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/AtmDemo/BankAccount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/auction/Bid.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/auction/Bid.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter02/book-exercise/Book.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/layouts/BorderLayoutExample.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/layouts/BorderLayoutExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/bouncing-balls/BouncingBall.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/bouncing-balls/BouncingBall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/layouts/BoxLayoutExample.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/layouts/BoxLayoutExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/bricks/Brick.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/bricks/Brick.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-engine/CalcEngine.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-engine-print/CalcEngine.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-full-solution/CalcEngine.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-gui/CalcEngine.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-engine/CalcEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-engine-print/CalcEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-full-solution/CalcEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-gui/CalcEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-engine/CalcEngineTester.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-engine-print/CalcEngineTester.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-engine/CalcEngineTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-engine-print/CalcEngineTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-full-solution/Calculator.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-gui/Calculator.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-full-solution/Calculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-gui/Calculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Canvas.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Canvas.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/bouncing-balls/Canvas.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/scribble/Canvas.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Canvas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Canvas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/bouncing-balls/Canvas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/scribble/Canvas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding/Chair.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding/Chair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Circle.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Circle.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/City.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/City.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/CityGUI.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/CityGUI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding/Classroom.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding/Classroom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/Clock.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/Clock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display/ClockDisplay.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/ClockDisplay.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display/ClockDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/ClockDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/club/Club.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/club/Club.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/club/ClubDemo.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/club/ClubDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-bad/Command.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-better/Command.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v1/Command.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/Command.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-bad/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-better/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v1/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v1/CommandWord.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/CommandWord.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v1/CommandWord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/CommandWord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-bad/CommandWords.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-better/CommandWords.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v1/CommandWords.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/CommandWords.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1t/CommandWords.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2t/CommandWords.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/CommandWords.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-bad/CommandWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-better/CommandWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v1/CommandWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/CommandWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1t/CommandWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2t/CommandWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/CommandWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/online-shop/Comment.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/online-shop-junit/Comment.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/online-shop/Comment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/online-shop-junit/Comment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-assert/ContactDetails.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-io/ContactDetails.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-junit/ContactDetails.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1g/ContactDetails.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1t/ContactDetails.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2g/ContactDetails.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2t/ContactDetails.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/ContactDetails.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-assert/ContactDetails.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-io/ContactDetails.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-junit/ContactDetails.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1g/ContactDetails.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1t/ContactDetails.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2g/ContactDetails.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2t/ContactDetails.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/ContactDetails.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Counter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/Counter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Counter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Counter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/Counter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Counter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project4/Currency.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/AtmDemo/CustomerData.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/AtmDemo/CustomerData.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/AtmDemo/CustomerData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/DarkerFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/DarkerFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/DarkerFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/DarkerFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/DarkerFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/DarkerFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/build/classes/Dispatch/DataFile.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/src/Dispatch/DataFile.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/Demo.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/Demo.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/src/Denizens/Denizen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/scribble/DrawDemo.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/scribble/DrawDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/DrawableItem.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/DrawableItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/DroidWWAD-DroidWWAD.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/EdgeFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/EdgeFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Field.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/Field.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Field.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Field.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/Field.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Field.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/FieldStats.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/FieldStats.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/FieldStats.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/FieldStats.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/FieldStats.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/FieldStats.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project7/FilesNSuch/src/FilesNSuch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/Filter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/Filter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/Filter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/Filter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/Filter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/Filter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/FishEyeFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/FishEyeFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/FishEyeFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/FishEyeFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/layouts/FlowLayoutExample.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/layouts/FlowLayoutExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Fox.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/Fox.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Fox.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Fox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/Fox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Fox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-bad/Game.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-better/Game.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v1/Game.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/Game.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-bad/Game.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-better/Game.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v1/Game.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/Game.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/src/Denizens/Ghoul.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/GraphView.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/GraphView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/GrayScaleFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/GrayScaleFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/layouts/GridLayoutExample.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/layouts/GridLayoutExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/GridView.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/GridView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding/Human.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding/Human.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/ImageFileManager.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-4/ImageFileManager.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer1-0/ImageFileManager.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/ImageFileManager.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/ImageFileManager.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/ImageFileManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-4/ImageFileManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer1-0/ImageFileManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/ImageFileManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/ImageFileManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/ImagePanel.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-4/ImagePanel.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer1-0/ImagePanel.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/ImagePanel.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/ImagePanel.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/ImagePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-4/ImagePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer1-0/ImagePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/ImagePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/ImagePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/ImageViewer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-1/ImageViewer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-1a/ImageViewer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-2/ImageViewer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-3/ImageViewer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-4/ImageViewer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer1-0/ImageViewer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/ImageViewer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/ImageViewer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/ImageViewer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-1/ImageViewer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-1a/ImageViewer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-2/ImageViewer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-3/ImageViewer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-4/ImageViewer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer1-0/ImageViewer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/ImageViewer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/ImageViewer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/InputReader.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support1/InputReader.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support2/InputReader.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io/InputReader.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io-v7/InputReader.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/InputReader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/InputReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support1/InputReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support2/InputReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io/InputReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io-v7/InputReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/InvertFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/InvertFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Item.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Item.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/lab-classes/LabClass.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/lab-classes/LabClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/LighterFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/LighterFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/LighterFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/LighterFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/LighterFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/LighterFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Location.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/Location.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Location.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Location.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/Location.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/Location.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/Location.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Location.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/Location.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Location.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Location.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/Location.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/Location.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/Location.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/src/Structure/Location.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/LocationTest.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/LocationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/LogAnalyzer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer/LogAnalyzer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer-v7/LogAnalyzer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/LogAnalyzer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer/LogAnalyzer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer-v7/LogAnalyzer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/LogEntry.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer/LogEntry.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer-v7/LogEntry.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/LogEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer/LogEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer-v7/LogEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/LogfileCreator.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer/LogfileCreator.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer-v7/LogfileCreator.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/LogfileCreator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer/LogfileCreator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer-v7/LogfileCreator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/LogfileReader.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer/LogfileReader.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer-v7/LogfileReader.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/LogfileReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer/LogfileReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer-v7/LogfileReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/LoglineTokenizer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer/LoglineTokenizer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer-v7/LoglineTokenizer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/LoglineTokenizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer/LoglineTokenizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer-v7/LoglineTokenizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/auction/Lot.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/auction/Lot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/mail-system/MailClient.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/mail-system/MailClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/mail-system/MailItem.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/mail-system/MailItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/mail-system/MailServer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/mail-system/MailServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/src/main/java/org/howardbates/droidwwad/droidwwad/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/club/Membership.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/club/Membership.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v1/MessagePost.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v2/MessagePost.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter09/network-v3/MessagePost.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v1/MessagePost.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v2/MessagePost.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter09/network-v3/MessagePost.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/MirrorFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/MirrorFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/MissingPassengerException.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/MissingPassengerException.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/MissingPassengerException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/MissingPassengerException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/MusicFilePlayer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/MusicFilePlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v1/MusicOrganizer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v2/MusicOrganizer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v3/MusicOrganizer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v4/MusicOrganizer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v5/MusicOrganizer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/MusicOrganizer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v1/MusicOrganizer.java#backup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v1/MusicOrganizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v2/MusicOrganizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v3/MusicOrganizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v4/MusicOrganizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v5/MusicOrganizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/MusicOrganizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v2/MusicPlayer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v3/MusicPlayer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v4/MusicPlayer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v5/MusicPlayer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/MusicPlayer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v2/MusicPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v3/MusicPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v4/MusicPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v5/MusicPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/MusicPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/MusicPlayerGUI.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/MusicPlayerGUI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v1/NewsFeed.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v2/NewsFeed.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter09/network-v3/NewsFeed.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v1/NewsFeed.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v2/NewsFeed.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter09/network-v3/NewsFeed.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/NoMatchingDetailsException.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/NoMatchingDetailsException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display/NumberDisplay.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/NumberDisplay.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display/NumberDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/NumberDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/OFImage.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-4/OFImage.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer1-0/OFImage.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/OFImage.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/OFImage.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/OFImage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-4/OFImage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer1-0/OFImage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/OFImage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/OFImage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/src/Denizens/Orc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/bricks/Pallet.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/bricks/Pallet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-bad/Parser.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-better/Parser.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v1/Parser.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/Parser.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1t/Parser.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2t/Parser.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/Parser.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-bad/Parser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-better/Parser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v1/Parser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/Parser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1t/Parser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2t/Parser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/Parser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Passenger.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/Passenger.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/Passenger.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/Passenger.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Passenger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/Passenger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/Passenger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/Passenger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/PassengerSource.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/PassengerSource.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/PassengerSource.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/PassengerSource.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/PassengerSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/PassengerSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/PassengerSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/PassengerSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/PassengerSourceTest.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/PassengerSourceTest.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/PassengerSourceTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/PassengerSourceTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/PassengerTest.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/PassengerTest.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/PassengerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/PassengerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/scribble/Pen.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/scribble/Pen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Person.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Person.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/auction/Person.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/auction/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v1/PhotoPost.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v2/PhotoPost.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter09/network-v3/PhotoPost.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v1/PhotoPost.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v2/PhotoPost.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter09/network-v3/PhotoPost.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Picture.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Picture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/PixelizeFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/PixelizeFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v2/Post.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter09/network-v3/Post.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v2/Post.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter09/network-v3/Post.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/src/main/java/org/howardbates/droidwwad/droidwwad/ProcessWwad.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/products/Product.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/products/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/lab-classes/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter02/better-ticket-machine/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter02/book-exercise/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter02/naive-ticket-machine/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/mail-system/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/auction/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/club/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v1/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v2/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v3/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v4/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v5/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/products/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/ty/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/bouncing-balls/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/scribble/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support1/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support2/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-bad/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-better/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v1/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/bricks/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-engine/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-engine-print/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-full-solution/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-gui/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/online-shop/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/online-shop-junit/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v1/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v2/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter09/network-v3/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-1/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-1a/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-2/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-3/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-4/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer1-0/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/layouts/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-assert/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-io/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-junit/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1g/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1t/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2g/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2t/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io-v7/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer-v7/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter13/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/dist/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/dist/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project7/FileIODemo/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Rabbit.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/Rabbit.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Rabbit.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Rabbit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/Rabbit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Rabbit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Randomizer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/Randomizer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Randomizer.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Randomizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/Randomizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Randomizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project7/FileIODemo/FileIODemo/ReaderWriter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project7/FileIODemo/FileIODemo/ReaderWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project7/FileIODemo/FileIODemo/ReaderWriter.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/Responder.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support1/Responder.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support2/Responder.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io/Responder.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io-v7/Responder.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/Responder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/Responder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support1/Responder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support2/Responder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io/Responder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io-v7/Responder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-bad/Room.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-better/Room.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v1/Room.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/Room.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-bad/Room.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-better/Room.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v1/Room.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/Room.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/build/classes/Structure/Rooms.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/src/Structure/Rooms.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/online-shop/SalesItem.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/online-shop-junit/SalesItem.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/online-shop/SalesItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/online-shop-junit/SalesItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/online-shop-junit/SalesItemTest.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/online-shop-junit/SalesItemTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/School/School.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Shuttle.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/Shuttle.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/Shuttle.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/Shuttle.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Shuttle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/Shuttle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/Shuttle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/Shuttle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Simulation.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Simulation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Simulator.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/Simulator.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Simulator.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/Simulator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/Simulator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/Simulator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/SimulatorView.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/SimulatorView.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/SimulatorView.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/SimulatorView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/SimulatorView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/SimulatorView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/SmoothFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/SmoothFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/SolarizeFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/SolarizeFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Square.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Square.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Square.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Square.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/src/Dispatch/Start.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/src/Dispatch/Start.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/products/StockDemo.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/products/StockDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/products/StockManager.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/products/StockManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/lab-classes/Student.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/lab-classes/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/SupportSystem.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support1/SupportSystem.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support2/SupportSystem.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io/SupportSystem.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io-v7/SupportSystem.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/SupportSystem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/SupportSystem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support1/SupportSystem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support2/SupportSystem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io/SupportSystem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io-v7/SupportSystem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Taxi.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/Taxi.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/Taxi.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/Taxi.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Taxi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/Taxi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/Taxi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/Taxi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/TaxiCompany.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/TaxiCompany.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/TaxiCompany.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/TaxiCompany.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/TaxiCompany.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/TaxiCompany.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/TaxiCompany.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/TaxiCompany.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/TaxiTest.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/TaxiTest.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/TaxiTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/TaxiTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/ThresholdFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/ThresholdFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/ThresholdFilter.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/ThresholdFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/ThresholdFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/ThresholdFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter02/better-ticket-machine/TicketMachine.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter02/naive-ticket-machine/TicketMachine.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter02/better-ticket-machine/TicketMachine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter02/naive-ticket-machine/TicketMachine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v5/Track.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/Track.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v5/Track.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/Track.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v5/TrackReader.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/TrackReader.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v5/TrackReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/TrackReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Triangle.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Triangle.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/Triangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/Triangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-full-solution/UserInterface.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-gui/UserInterface.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-full-solution/UserInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-gui/UserInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Vehicle.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/Vehicle.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/Vehicle.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/Vehicle.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/Vehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/Vehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/Vehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/Vehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/mail-system/__SHELL7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/src/main/res/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/allclasses-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/allclasses-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/allclasses-noframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/allclasses-noframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/nbproject/build-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/nbproject/build-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/build/built-jar.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/build/built-jar.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/School/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/nbproject/private/config.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/constant-values.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/constant-values.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io/default.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io-v7/default.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/src/main/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/src/main/res/values-w820dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/School/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/nbproject/genfiles.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/nbproject/genfiles.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/help-doc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/help-doc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/index-all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/index-all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/logfile.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/logfile.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/src/main/res/menu/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/manifest.mf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/manifest.mf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/School/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/School/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/ty/njj.ctxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/ty/njj.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/overview-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/overview-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/AtmDemo/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/package-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/package-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/AtmDemo/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/AtmDemo/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/AtmDemo/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/figures/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/house/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter01/lab-classes/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter02/better-ticket-machine/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter02/book-exercise/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter02/naive-ticket-machine/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/clock-display-with-GUI/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/mail-system/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/auction/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/club/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v1/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v2/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v3/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v4/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/music-organizer-v5/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/products/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/ty/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/bouncing-balls/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/scribble/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support1/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support2/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-bad/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-better/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v1/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter06/zuul-with-enums-v2/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/bricks/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-engine/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-engine-print/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-full-solution/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/calculator-gui/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/online-shop/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter07/online-shop-junit/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v1/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter08/network-v2/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter09/network-v3/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-graph/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v1/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter10/foxes-and-rabbits-v2/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer-final/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-1/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-1a/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-2/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-3/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer0-4/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer1-0/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer2-0/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/imageviewer3-0/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/layouts/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter11/musicplayer/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-assert/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-io/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-junit/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1g/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v1t/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2g/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v2t/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/address-book-v3t/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/tech-support-io-v7/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer-v7/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-later-stage/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-outline-testing/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter14/taxi-company-stage-one/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project7/FileIODemo/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project7/FileIODemo/FileIODemo/package.bluej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/nbproject/private/private.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/nbproject/private/private.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/nbproject/private/private.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/nbproject/private/private.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/School/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/proguard-rules.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/nbproject/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/nbproject/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap8Proj/nbproject/project.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project5/OFwJChap9Proj/nbproject/project.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/School/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/DroidWWAD/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/doc/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter05/tech-support-complete/doc/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/School/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project8/DroidWWAD/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter04/weblog-analyzer/weblog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer/weblog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter12/weblog-analyzer-v7/weblog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/AtmDemo/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CODE/Project3/School/.idea/workspace.xml" />
+    </list>
+    <ignored path="225.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="225" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="hbates@northmen.org" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pages/grading.html" />
+        <option value="$PROJECT_DIR$/pages/logistix.html" />
+        <option value="$PROJECT_DIR$/pages/midterm.html" />
+        <option value="$PROJECT_DIR$/pages/objectives.html" />
+        <option value="$PROJECT_DIR$/pages/policy.html" />
+        <option value="$PROJECT_DIR$/pages/project1.html" />
+        <option value="$PROJECT_DIR$/pages/project2.html" />
+        <option value="$PROJECT_DIR$/pages/project3.html" />
+        <option value="$PROJECT_DIR$/pages/project8.html" />
+        <option value="$PROJECT_DIR$/css/largeStyle.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/../index.html" />
+        <option value="$PROJECT_DIR$/pages/project5.html" />
+        <option value="$PROJECT_DIR$/pages/project6.html" />
+        <option value="$PROJECT_DIR$/pages/project4.html" />
+        <option value="$PROJECT_DIR$/pages/project7.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="225" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="225" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="225" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65eaa5f6-17d2-44fa-9f97-0bcfd97e9d1b" name="Default" comment="" />
+      <created>1421423569721</created>
+      <option name="number" value="Default" />
+      <updated>1421423569721</updated>
+      <workItem from="1421423569425" duration="374000" />
+      <workItem from="1421424142198" duration="227000" />
+      <workItem from="1421435950255" duration="4601000" />
+      <workItem from="1421690700014" duration="594000" />
+      <workItem from="1421691399907" duration="4099000" />
+      <workItem from="1421854012450" duration="1367000" />
+      <workItem from="1421856354116" duration="223000" />
+      <workItem from="1421862850437" duration="6633000" />
+      <workItem from="1421931078911" duration="1518000" />
+      <workItem from="1421951140402" duration="95000" />
+      <workItem from="1422276139547" duration="49000" />
+      <workItem from="1422648627778" duration="511000" />
+      <workItem from="1422911635620" duration="1780000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fixed head stuff">
+      <created>1421423889318</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1421423889318</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added topical links and cleaned up some css file formatting">
+      <created>1421439139766</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1421439139766</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Div cleanups">
+      <created>1421440523251</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1421440523251</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Medium css cleanup, project objectives re-structure">
+      <created>1421698042326</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1421698042326</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HTML5 validation cleanup and css fixing to be in line with 104.">
+      <created>1421854762217</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1421854762217</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added more assignment objectives.">
+      <created>1421866799700</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1421866799700</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added even more assignment objectives.">
+      <created>1421870894158</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1421870894158</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Moved file I/O to project 7">
+      <created>1421932924660</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1421932924660</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22071000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294849" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985386" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1433902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Fixed head stuff" />
+    <MESSAGE value="Added topical links and cleaned up some css file formatting" />
+    <MESSAGE value="Div cleanups" />
+    <MESSAGE value="Medium css cleanup, project objectives re-structure" />
+    <MESSAGE value="HTML5 validation cleanup and css fixing to be in line with 104." />
+    <MESSAGE value="Added more assignment objectives." />
+    <MESSAGE value="Added even more assignment objectives." />
+    <MESSAGE value="Moved file I/O to project 7" />
+    <MESSAGE value="Added new File I/O example" />
+    <MESSAGE value="A bunch of minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="A bunch of minor changes" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pages/grading.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08751459" vertical-offset="0" max-vertical-offset="1605">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/logistix.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08751459" vertical-offset="0" max-vertical-offset="1170">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/midterm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08751459" vertical-offset="0" max-vertical-offset="857">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/objectives.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08751459" vertical-offset="0" max-vertical-offset="1770">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/policy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08886256" vertical-offset="0" max-vertical-offset="844">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/project1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08886256" vertical-offset="0" max-vertical-offset="1050">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/project2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08751459" vertical-offset="0" max-vertical-offset="857">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22235022" vertical-offset="3467" max-vertical-offset="4530">
+          <caret line="244" column="32" selection-start-line="244" selection-start-column="32" selection-end-line="244" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/largeStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4642857" vertical-offset="3677" max-vertical-offset="4545">
+          <caret line="272" column="15" selection-start-line="272" selection-start-column="15" selection-end-line="272" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="315">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/project3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5529954" vertical-offset="0" max-vertical-offset="765">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/project5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76086956" vertical-offset="0" max-vertical-offset="828">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/project6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.634058" vertical-offset="0" max-vertical-offset="828">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/project8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09057971" vertical-offset="0" max-vertical-offset="828">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/project7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4620853" vertical-offset="0" max-vertical-offset="844">
+          <caret line="26" column="117" selection-start-line="26" selection-start-column="117" selection-end-line="26" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/project4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51540285" vertical-offset="0" max-vertical-offset="844">
+          <caret line="29" column="259" selection-start-line="29" selection-start-column="259" selection-end-line="29" selection-end-column="259" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28486294" vertical-offset="1181" max-vertical-offset="2060">
+          <caret line="71" column="116" selection-start-line="71" selection-start-column="116" selection-end-line="71" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
