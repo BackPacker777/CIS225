@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ notifyPickupArrival()
+comment0.text=\r\n\ Notify\ the\ company\ of\ our\ arrival\ at\ a\ pickup\ location.\r\n
+comment1.params=
+comment1.target=boolean\ isFree()
+comment1.text=\r\n\ Is\ the\ vehicle\ free?\r\n\ @return\ Whether\ or\ not\ this\ vehicle\ is\ free.\r\n
+comment2.params=
+comment2.target=void\ offloadPassenger()
+comment2.text=\r\n\ Offload\ any\ passengers\ whose\ destination\ is\ the\r\n\ current\ location.\r\n
+comment3.params=
+comment3.target=void\ clearTargetLocation()
+comment3.text=\r\n\ Clear\ the\ target\ location.\r\n
+comment4.params=
+comment4.target=int\ getIdleCount()
+comment4.text=\r\n\ @return\ On\ how\ many\ steps\ this\ vehicle\ has\ been\ idle.\r\n
+comment5.params=
+comment5.target=void\ incrementIdleCount()
+comment5.text=\r\n\ Increment\ the\ number\ of\ steps\ on\ which\ this\ vehicle\r\n\ has\ been\ idle.\r\n
+numComments=6

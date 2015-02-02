@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Randomly\ generate\ a\ new\ passenger.\r\n\ Keep\ a\ count\ of\ missed\ pickups.\r\n
+comment1.params=
+comment1.target=int\ getMissedPickups()
+comment1.text=\r\n\ @return\ The\ number\ of\ passengers\ for\ whom\ a\ pickup\r\n\ \ \ \ \ \ \ \ \ could\ not\ be\ found.\r\n
+numComments=2

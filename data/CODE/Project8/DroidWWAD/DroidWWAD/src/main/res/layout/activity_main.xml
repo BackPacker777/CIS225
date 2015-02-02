@@ -1,0 +1,66 @@
+<RelativeLayout
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="#ffffff">
+
+	<TextView
+		android:layout_width="230dp"
+		android:layout_height="40dp"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:text="K  a  R  a  T  e  !"
+		android:id="@+id/answerText"
+		android:layout_gravity="center_horizontal"
+		android:layout_weight="0.12"
+		android:background="#0f3a5e"
+		android:gravity="center_vertical|center_horizontal"
+		android:textAlignment="center"
+		android:textColor="#ffffff"
+		android:textSize="@dimen/activity_vertical_margin"
+		android:textStyle="bold"
+		android:typeface="monospace"
+		android:visibility="visible"
+		android:layout_above="@+id/textClock"
+		android:layout_alignLeft="@+id/textTitle"
+		android:layout_alignStart="@+id/textTitle"
+		android:layout_marginBottom="31dp"
+		android:layout_alignRight="@+id/textTitle"
+		android:layout_alignEnd="@+id/textTitle"/>
+
+	<TextClock
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/textClock"
+		android:layout_alignParentBottom="true"
+		android:layout_centerHorizontal="true"
+		android:layout_marginBottom="25dp"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:text="What would Aaron do?"
+		android:id="@+id/textTitle"
+		android:textSize="@dimen/title_text"
+		android:layout_alignParentTop="true"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="37dp"/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Let's find out!"
+		android:id="@+id/button"
+		android:onClick="buttonClick"
+		android:layout_below="@+id/textTitle"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="47dp"/>
+
+	<ImageView
+		android:layout_width="201dp"
+		android:layout_height="151dp"
+		android:id="@+id/imageView"
+		android:layout_centerVertical="true"
+		android:layout_centerHorizontal="true"
+		android:background="@drawable/karate"/>
+</RelativeLayout>

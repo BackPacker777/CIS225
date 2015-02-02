@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=accountType\ accountNumber\ balance
+comment0.target=BankAccount(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BankAccounts\r\n
+comment1.params=amount
+comment1.target=void\ performDeposit(int)
+comment1.text=\r\n\ Method\ performDeposit\r\n\r\n\ @param\ deposit\ A\ parameter\r\n
+comment2.params=amount
+comment2.target=void\ performWithdrawal(int)
+comment2.text=\r\n\ Method\ performWithdrawl\r\n\r\n\ @param\ withdrawl\ A\ parameter\r\n
+comment3.params=
+comment3.target=int\ getBalance()
+comment3.text=\r\n\ Method\ getBalance\r\n\r\n\ @return\ The\ return\ value\r\n
+comment4.params=
+comment4.target=int\ getAccountType()
+comment4.text=\r\n\ Method\ getAccountType\r\n\r\n\ @return\ The\ return\ value\r\n
+comment5.params=
+comment5.target=int\ getAccountNumber()
+numComments=6

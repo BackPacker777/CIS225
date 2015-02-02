@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AtmInterface()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ AtmInterface\r\n
+comment1.params=customer
+comment1.target=void\ addCustomers(CustomerData)
+comment1.text=\r\n\ Method\ addCustomers\r\n\r\n\ @param\ customer\ (Acts\ like\ a\ datbase\ connector).\r\n
+comment2.params=pin\ cardNumber
+comment2.target=void\ validateCustomer(int,\ int)
+comment2.text=\r\n\ Method\ validateCustomer\r\n\r\n\ @param\ pin\ A\ parameter\r\n\ @param\ cardNumber\ A\ parameter\r\n
+comment3.params=
+comment3.target=void\ printCustomers()
+comment3.text=\r\n\ Method\ printCustomers\r\n\r\n
+comment4.params=accountNumber\ amount
+comment4.target=void\ makeDeposit(int,\ int)
+comment5.params=accountNumber\ amount
+comment5.target=void\ makeWithdrawal(int,\ int)
+comment5.text=\r\n\ Method\ makeWithdrawal\r\n\r\n\ @param\ accountNumber\ A\ parameter\r\n\ @param\ amount\ A\ parameter\r\n
+comment6.params=fromAccountNumber\ toAccountNumber\ amount
+comment6.target=void\ transferFunds(int,\ int,\ int)
+comment6.text=\r\n\ Method\ transferFunds\r\n\r\n\ @param\ fromAccountNumber\ A\ parameter\r\n\ @param\ toAccountNumber\ A\ parameter\r\n\ @param\ amount\ A\ parameter\r\n
+comment7.params=accountNumber
+comment7.target=int\ getBalance(int)
+comment7.text=\r\n\ Method\ getBalance\r\n\r\n\ @param\ accountNumber\ A\ parameter\r\n\ @return\ The\ return\ value\r\n
+numComments=8

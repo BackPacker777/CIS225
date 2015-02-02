@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ setupVehicles()
+comment0.text=\r\n\ Set\ up\ this\ company's\ vehicles.\ The\ optimum\ number\ of\r\n\ vehicles\ should\ be\ determined\ by\ analysis\ of\ the\r\n\ data\ gathered\ from\ the\ simulation.\r\n\r\n\ Vehicles\ start\ at\ random\ locations.\r\n
+numComments=1
