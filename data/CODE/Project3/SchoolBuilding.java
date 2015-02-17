@@ -109,7 +109,7 @@ public class Classroom {
 			if (seats[index].getColor().equals(color)) {
 				numSeats++;
 			}
-				index++;
+			index++;
 		}
 		displayNumColorSeats(color, numSeats);
 	}

@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65eaa5f6-17d2-44fa-9f97-0bcfd97e9d1b" name="Default" comment="A bunch of minor changes">
-      <change type="DELETED" beforePath="Z:\NCMC\225\data\CODE\BookProjects\chapter03\mail-system\__SHELL7.class" afterPath="" />
-      <change type="DELETED" beforePath="Z:\NCMC\225\data\CODE\BookProjects\chapter03\mail-system\__SHELL7.java" afterPath="" />
+    <list default="true" id="65eaa5f6-17d2-44fa-9f97-0bcfd97e9d1b" name="Default" comment="A bunch of minor changes 3">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/CODE/Project8/AtBat" afterPath="$PROJECT_DIR$/data/CODE/Project8/AtBat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding/Classroom.class" afterPath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding/Classroom.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/CODE/Project8/TheDicer" afterPath="$PROJECT_DIR$/data/CODE/Project8/TheDicer" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/CODE/Project3/Collections.java" afterPath="$PROJECT_DIR$/data/CODE/Project3/Collections.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/CODE/Project3/Collections.txt" afterPath="$PROJECT_DIR$/data/CODE/Project3/Collections.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding.java" afterPath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/objectives.html" afterPath="$PROJECT_DIR$/pages/objectives.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/mail-system/package.bluej" afterPath="$PROJECT_DIR$/data/CODE/BookProjects/chapter03/mail-system/package.bluej" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding/package.bluej" afterPath="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding/package.bluej" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/project3.html" afterPath="$PROJECT_DIR$/pages/project3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/project4.html" afterPath="$PROJECT_DIR$/pages/project4.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="225.iws" />
@@ -64,11 +62,14 @@
         <option value="$PROJECT_DIR$/../index.html" />
         <option value="$PROJECT_DIR$/pages/project5.html" />
         <option value="$PROJECT_DIR$/pages/project6.html" />
-        <option value="$PROJECT_DIR$/pages/project4.html" />
         <option value="$PROJECT_DIR$/pages/project7.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/data/CODE/Project3/Collections.txt" />
+        <option value="$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding.java" />
+        <option value="$PROJECT_DIR$/data/CODE/Project3/Collections.java" />
         <option value="$PROJECT_DIR$/pages/objectives.html" />
         <option value="$PROJECT_DIR$/pages/project3.html" />
+        <option value="$PROJECT_DIR$/pages/project4.html" />
       </list>
     </option>
   </component>
@@ -107,7 +108,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -142,6 +142,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,6 +158,8 @@
     <property name="options.lastSelected" value="settings.github" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -351,6 +354,12 @@
       <option name="usbDebugPort" value="7936" />
       <method />
     </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -368,6 +377,9 @@
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -430,7 +442,11 @@
       <workItem from="1422917286474" duration="821000" />
       <workItem from="1422925374126" duration="108000" />
       <workItem from="1423060043150" duration="14000" />
-      <workItem from="1423508298607" duration="73000" />
+      <workItem from="1423508298607" duration="2125000" />
+      <workItem from="1423519850971" duration="6538000" />
+      <workItem from="1423577631682" duration="109000" />
+      <workItem from="1424175539288" duration="198000" />
+      <workItem from="1424179522455" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed head stuff">
       <created>1421423889318</created>
@@ -480,11 +496,17 @@
       <option name="project" value="LOCAL" />
       <updated>1421932924660</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="A bunch of minor changes">
+      <created>1423508398741</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1423508398742</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23950000" />
+    <option name="totallyTimeSpent" value="32944000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -507,7 +529,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -520,10 +542,10 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.08742005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13965885" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -566,12 +588,13 @@
     <MESSAGE value="Moved file I/O to project 7" />
     <MESSAGE value="Added new File I/O example" />
     <MESSAGE value="A bunch of minor changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="A bunch of minor changes" />
+    <MESSAGE value="A bunch of minor changes 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="A bunch of minor changes 3" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -580,6 +603,20 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/CODE/Project3/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1672">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1596" max-vertical-offset="2375">
+          <caret line="100" column="60" selection-start-line="100" selection-start-column="60" selection-end-line="100" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/CODE/Project3/MapsNSuch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1540">
@@ -678,13 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/project4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51540285" vertical-offset="0" max-vertical-offset="844">
-          <caret line="29" column="259" selection-start-line="29" selection-start-column="259" selection-end-line="29" selection-end-column="259" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28486294" vertical-offset="1181" max-vertical-offset="2060">
@@ -699,17 +729,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/CODE/Project3/Collections.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34052214" vertical-offset="0" max-vertical-offset="1760">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/CODE/Project3/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0333333" vertical-offset="342" max-vertical-offset="1672">
+          <caret line="79" column="45" selection-start-line="79" selection-start-column="45" selection-end-line="79" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/CODE/Project3/SchoolBuilding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53333336" vertical-offset="1596" max-vertical-offset="2375">
+          <caret line="100" column="60" selection-start-line="100" selection-start-column="60" selection-end-line="100" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/objectives.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23239437" vertical-offset="1282" max-vertical-offset="2360">
-          <caret line="74" column="26" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+        <state vertical-scroll-proportion="-1.2986767" vertical-offset="1675" max-vertical-offset="2242">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/project3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7300469" vertical-offset="178" max-vertical-offset="1060">
-          <caret line="39" column="127" selection-start-line="39" selection-start-column="127" selection-end-line="39" selection-end-column="127" />
+        <state vertical-scroll-proportion="0.805293" vertical-offset="315" max-vertical-offset="969">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/CODE/Project4/BatesCode/Currency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.113507375" vertical-offset="0" max-vertical-offset="1380">
+          <caret line="5" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/project4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3432658" vertical-offset="132" max-vertical-offset="1020">
+          <caret line="21" column="117" selection-start-line="21" selection-start-column="117" selection-end-line="21" selection-end-column="117" />
           <folding />
         </state>
       </provider>
